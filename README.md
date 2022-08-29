@@ -10,7 +10,7 @@
   -n OR --thread        Total Thread Number (Total Core CPU)
 ```
 
-![Ethereum RED Crypto Magic ](https://raw.githubusercontent.com/Pymmdrza/REDCryptoMAGIC/mainx/EthRedCrypto.png?token=GHSAT0AAAAAABYEDUDPUMK22DVKGNDZGHOWYYMEJYA)
+![Ethereum RED Crypto Magic ](https://raw.githubusercontent.com/Pymmdrza/REDCryptoMAGIC/mainx/EthRedCrypto.png)
 
 Example for running `EthRedCryptoMAGIC.py` After 1000 Key Generated and LOADED Address From File `eth5.txt` with 32 Thread/Core :
 
@@ -26,7 +26,7 @@ or
 python DotRedCryptoMAGIC.py -f dot1000.txt -v 1000 -n 32
 ```
 
-![](https://raw.githubusercontent.com/Pymmdrza/REDCryptoMAGIC/mainx/DotRedCrypto.png?token=GHSAT0AAAAAABYEDUDOT32TZTJ2XV2ROHXEYYMEK7A)
+![](https://raw.githubusercontent.com/Pymmdrza/REDCryptoMAGIC/mainx/DotRedCrypto.png)
 
 For Running DotCryptoMAGIC.py Needed Rich Address Wallet On Text File . Can [Download Here](https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/DOT 'Rich Address Wallet List Polkadot DOT')
 
