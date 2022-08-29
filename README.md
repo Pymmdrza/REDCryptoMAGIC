@@ -30,6 +30,9 @@ python DotRedCryptoMAGIC.py -f dot1000.txt -v 1000 -n 32
 
 For Running DotCryptoMAGIC.py Needed Rich Address Wallet On Text File . Can [Download Here](https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/DOT 'Rich Address Wallet List Polkadot DOT')
 
+
+
+✨ Donate Programmer BTC ADDRESS : `15hHp8orzFTwQVc8S8xSFkwnamfJ5ZzZ8R`
 ```
 Programmer Mmdrza.Com
 Telegram ID ~ @MrPyMmdrza
