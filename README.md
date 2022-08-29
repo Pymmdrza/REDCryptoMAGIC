@@ -18,5 +18,8 @@ or
 `python EthRedCryptoMAGIC.py --view 1000 --file eth5.txt --thread 32`
 
 ---
-
+### Polkadot Hunting And Crack Private Key From Mnemonic:
+```
+python DotRedCryptoMAGIC.py -f dot1000.txt -v 1000 -n 32
+```
 For Running DotCryptoMAGIC.py Needed Rich Address Wallet On Text File . Can [Download Here](https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/DOT 'Rich Address Wallet List Polkadot DOT')
