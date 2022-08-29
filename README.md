@@ -18,3 +18,5 @@ or
 `python EthRedCryptoMAGIC.py --view 1000 --file eth5.txt --thread 32`
 
 ---
+
+For Running DotCryptoMAGIC.py Needed Rich Address Wallet On Text File . Can [Download Here](https://github.com/Pymmdrza/Rich-Address-Wallet/tree/main/DOT 'Rich Address Wallet List Polkadot DOT')
