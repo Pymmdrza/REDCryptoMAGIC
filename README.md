@@ -1,6 +1,15 @@
 # RED Crypto MAGIC
 ## RED CRYPTO MAGIC ~ Hunt and Crack Private Key (Bytes & Hex) With Mnemonic
 
+For Running This Script First Install Package's (Windows):
+```
+pip install bip_utils
+pip install rich
+pip install optparse
+```
+
+On Linux : `pip3 install rich bip_utils optparse`
+
 
 ### Ethereum Hunting and Crack Private Key From Mnemonic:
 ```
