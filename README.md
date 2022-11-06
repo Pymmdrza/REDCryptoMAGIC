@@ -48,6 +48,6 @@ For Running DotCryptoMAGIC.py Needed Rich Address Wallet On Text File . Can [Dow
 ```
 Programmer Mmdrza.Com
 Telegram ID ~ @MrPyMmdrza
-Telegram Channel ~ @CryptoAttacker
+Telegram Channel ~ @Cryptoixer
 Github @Pymmdrza
 ```
